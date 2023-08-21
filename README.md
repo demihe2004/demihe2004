@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - MFE @ UCLA Anderson
-- Archiving projects and notes about stochastic calculus, ML and empirical pricing etc
+- Archive projects and notes about stochastic calculus, ML and computation finance etc
 
 <!--
 **demihe2004/demihe2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
